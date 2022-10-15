@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding-left: 82px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    height: 40px;
+}
+
+abbr {
+    text-decoration: none !important;
+}
+
+td {
+    height: 15px;
+    width: 50px;
+}
+
+table {
+    margin: 30px;
+}
+
+/*                                    REMOVE THIS CODE BELOW
+                                you can remove youtube & fb logos 
+                                https://fb.watch/gaMWY8dOkY/
+                                https://www.youtube.com/channel/UCDvQX3EY8Uzz2k49_mr4NiQ?sub_confirmation=1
+                                just delete the lines 26-45 */
+p {
+    text-align: center !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fa {
+    padding: 6px;
+    font-size: 18px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+/* till here */
